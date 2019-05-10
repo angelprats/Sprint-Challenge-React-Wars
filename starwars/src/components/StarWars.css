@@ -1,4 +1,32 @@
+
+
+.card {
+  background: #443e3e;
+  display: flex;
+  justify-content: space-between;
+  border: 3px solid black;
+  color: rgb(254, 233, 233);
+  width: 60%;
+  padding: 10px;
+  border-radius: 50px;
+  margin-bottom: 10px;
+  margin-left: 260px;
+}
+
 .name {
+  font-family: arial;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: red;
   font-size: 1.5rem;
+  text-shadow: 2px 5px black;
+  padding: 10px;
+}
+
+.info {
+  text-shadow: 1px 3px black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(206, 160, 249);
+  
 }
