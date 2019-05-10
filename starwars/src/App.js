@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import StarWarsList from './components/StarWarsList';
 import './App.css';
 
 class App extends Component {
